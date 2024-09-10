@@ -1,8 +1,19 @@
 ### Hello! I am Leonardo Luniere  👋
 
-- 🔭 I’m working on Front-End
-- 🌱 I’m learning TypeScript 
-- 😄 Pronouns: He/They
+- Sobre mim
+🙋🏻‍♀️ Sou profissional em transição de carreira
+
+🎯 Meu principal objetivo é me tornar um Desenvolvedor Web FullStack
+
+🏆 Certificações obtidas:
+
+✅ Certificado de curso de desenvolvimento web de 1.500 horas na Trybe Programming School
+
+🌱 Atualmente estou estudando para obter um Certificado Profissional em Sistema de Informação
+
+🌍 Sou brasileira e moro em São Paulo, Brasil
+
+📫 Como entrar em contato comigo leonardoluni@gmail.com
   
   ![Leonardo Luniere GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLuniere&show_icons=true&theme=react&count_private=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLuniere&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
