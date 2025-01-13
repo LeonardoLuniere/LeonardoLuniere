@@ -1,19 +1,28 @@
 ### Hello! I am Leonardo Luniere  👋
 
-- Sobre mim
-🙋🏻‍♀️ Sou profissional em transição de carreira
+🎯 About Me
+I’m a Full Stack Web Developer in career transition, with hands-on experience in web application development and a continuous passion for learning and applying new technologies. My goal is to contribute to the creation of innovative, scalable digital solutions that meet both user and business needs.
 
-🎯 Meu principal objetivo é me tornar um Desenvolvedor Web FullStack
+🏆 Certifications and Achievements
+Web Development Certification (1,500 hours) – Trybe Programming School
+Completed an intensive course focused on JavaScript, React, Node.js, SQL, HTML5, CSS3, and agile practices. During the course, I developed several projects that solidified my full-stack development skills and ability to work in collaborative environments.
 
-🏆 Certificações obtidas:
+Professional Certification in Information Systems (in progress)
+Currently enhancing my knowledge in system architecture and IT practices to gain a comprehensive understanding of development processes and infrastructure.
 
-✅ Certificado de curso de desenvolvimento web de 1.500 horas na Trybe Programming School
+💻 Technologies and Tools
+Front-end: React, JavaScript, HTML5, CSS3
+Back-end: Node.js, Express, SQL, MongoDB
+Tools and Methodologies: Git, GitHub, Agile, Docker, Jest (Testing), CI/CD
+Other Skills: API development, database integration, version control, and code documentation best practices.
+🌟 What Drives Me
+I believe technology has the power to transform society and improve user experiences. Every line of code is an opportunity to make a positive impact on people's lives. My focus is to create practical, user-centered, and innovative technological solutions with a sustainable approach to system development.
 
-🌱 Atualmente estou estudando para obter um Certificado Profissional em Sistema de Informação
+🌍 Location
+I am currently based in São Paulo, Brazil, and I am open to remote or on-site opportunities.
 
-🌍 Sou brasileira e moro em São Paulo, Brasil
-
-📫 Como entrar em contato comigo leonardoluni@gmail.com
+📫 Let’s Connect!
+I’m available for collaboration and exciting new projects. Feel free to reach out to me:
   
   ![Leonardo Luniere GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoLuniere&show_icons=true&theme=react&count_private=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLuniere&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
